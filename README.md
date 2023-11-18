@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NMMashilheiba
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning fastapi, jenkins, docker, Data_science,
+- 🌱 I’m currently learning reactJS with tailwind CSS
 - 💞️ I’m looking to collaborate on... (not sure)
 - 📫 How to reach me @MashilheibaNm
 
